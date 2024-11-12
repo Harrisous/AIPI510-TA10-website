@@ -1,0 +1,5 @@
+flask==2.2.5
+requests==2.31.0
+python-dotenv==0.21.0
+flask_cors==5.0.0
+gunicorn==23.0.0
